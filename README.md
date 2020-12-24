@@ -1,29 +1,12 @@
-# README #
+## Available Scripts
 
-This README would normally document whatever steps are necessary to get your application up and running.
+In the project directory, you can run:
 
-### What is this repository for? ###
+### `npm install`
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Installs all the dependencies.
 
-### How do I get set up? ###
+### `npm start`
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
