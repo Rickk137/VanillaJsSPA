@@ -1,6 +1,6 @@
 ## Simple SPA without using any framework (React, Vue, Angular,...)
 
-[Check Here](https://epic-turing-73c25a.netlify.app)
+[Check Here](https://peyman-spa.netlify.app/)
 
 
 ## Available Scripts
